@@ -4,7 +4,7 @@
 - 🔭 Hoje estou trabalhando em projetos pessoais
 - 🌱 Estudando React
 - 📫 E-mail: rikehaggstrom@gmail.com
-- ##
+ ##
   <div>
   <a href="https://github.com/HenriqueHaggstrom">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=henriquehaggstrom&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
