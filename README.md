@@ -1,4 +1,4 @@
-## Saudaçoes! Eu sou o Henrique Haggstrom
+## Saudações! Eu sou o Henrique Haggstrom
 
 
 - 🔭 Hoje estou trabalhando em projetos pessoais
